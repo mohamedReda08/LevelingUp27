@@ -11,7 +11,7 @@ import pages.SearchResultsPage;
 
 import java.time.Duration;
 
-public class Task24Aug {
+public class POMPractice {
      WebDriver driver;
      Wait<WebDriver> wait;
     LandingPage landingPage;
